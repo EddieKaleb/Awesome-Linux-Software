@@ -1073,6 +1073,7 @@
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Pocket Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [The Linux Foundation Training](https://training.linuxfoundation.org/resources/)
 
 ## Linux Hacking/Development
 
